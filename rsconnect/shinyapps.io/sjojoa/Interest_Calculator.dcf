@@ -1,8 +1,8 @@
 name: Interest_Calculator
 account: sjojoa
 server: shinyapps.io
-bundleId: 244488
+bundleId: 245613
 url: https://sjojoa.shinyapps.io/Interest_Calculator
-when: 1440006725.71256
+when: 1440101240.51353
 asMultiple: FALSE
 asStatic: FALSE
